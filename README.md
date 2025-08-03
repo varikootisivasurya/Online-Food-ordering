@@ -6,7 +6,7 @@ Habibi Foods is a streamlined online food ordering system designed to enable res
 
 Developed using HTML, CSS, Bootstrap, JavaScript for the frontend, and Python (Django) with SQLite for the backend, Habibi Foods ensures efficiency and user satisfaction.
 
-
+## 🖼️ Screenshots of the Project
 <img width="1920" height="917" alt="f1" src="https://github.com/user-attachments/assets/1ee6fd4d-1b9c-4f17-82b1-adaaacbc8578" />
 
 ## 🎯 Features
@@ -39,6 +39,7 @@ Restaurant Login/Register: Secure restaurant portal for menu management.
 
 ## 📌 Menu Page
 
+![image](https://github.com/user-attachments/assets/3ae76c68-fd20-40af-ba98-91ef9666fdc7)
 
 
 ## 📌 Add to Cart
@@ -53,7 +54,19 @@ Restaurant Login/Register: Secure restaurant portal for menu management.
 
 ## 📌 Restaurant Add Menu Page
 
+<img width="1920" height="755" alt="n1" src="https://github.com/user-attachments/assets/74e678a1-8713-4be6-a4e9-48cca0c1c2ab" />
 
 
+## 📌 Feedback Page
+
+<img width="1920" height="848" alt="n2" src="https://github.com/user-attachments/assets/d3e772df-8ab7-4b15-a2e5-3b524355af3d" />
+
+## 🚀 Future Plans
+🔹 Implement user reviews and ratings for menu items.
+🔹 Integrate real-time order tracking and notifications.
+🔹 Expand payment options to include digital wallets.
+🔹 Enhance admin dashboard for analytics and insights.
+
+💡 Stay tuned for updates! 🎉
 
 
