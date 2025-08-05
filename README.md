@@ -15,6 +15,7 @@ Developed using HTML, CSS, Bootstrap, JavaScript for the frontend, and Python (D
 
 User Login/Register: Secure customer access.
 Restaurant Login/Register: Secure restaurant portal for menu management.
+
 ✅ Menu Customization – Restaurants can update and manage their menu.
 
 ✅ Menu Browsing – Customers can easily explore restaurant menus.
